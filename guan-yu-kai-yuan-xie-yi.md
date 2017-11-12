@@ -1,6 +1,6 @@
 在 GitHub 上浏览一些开源软件时，我们经常会看到 README.md 文件下会有一个关于 License 的声明，或者有一个单独的 LICENSE文件来说明该软件或者类库是基于什么协议开源的，你能拿他做什么不能做什么。或许是因为习惯了在Google 或者 Stackoverflow 上找到一份代码就开始使用的缘故，很多人不会留意这些软件是基于什么开源协议开源的。比如广泛使用的 jQuery，大家都在用，也没有任何人说直接复制了或者更改了 jQuery 源码产生衍生软件会有什么问题。但是在开发商业软件的过程中如果需要用到开源软件，它使用的何种开源协议对你的软件有直接或者致命的影响。
 
-## 常见的开源协议
+## 1 常见的开源协议
 
 以下介绍在 GitHub 上使用广泛的开源协议。
 
@@ -57,7 +57,7 @@ Mozilla Public License（MPL 2.0）是由 Mozilla 基金创建维护的。此协
 
 使用 Mozilla 的代表 Servo、Syncthing。
 
-## 如何选择一个开源协议
+## 2 如何选择一个开源协议
 
 ### 一张图应该够了
 
@@ -67,7 +67,5 @@ Mozilla Public License（MPL 2.0）是由 Mozilla 基金创建维护的。此协
 
 ### GitHub 帮你选择
 
-GitHub 做了一个网站帮助开发者选择自己适合的开源协议 https://choosealicense.com/
-
-
+GitHub 做了一个网站帮助开发者选择自己适合的开源协议 [https://choosealicense.com/](https://choosealicense.com/)
 
