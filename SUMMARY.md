@@ -6,5 +6,5 @@
 
 ## 程序员的基本修养
 
-* [自由软件与开源协议.md](guan-yu-kai-yuan-xie-yi.md)
+* [自由软件与开源协议.md](fsf-and-license.md)
 
