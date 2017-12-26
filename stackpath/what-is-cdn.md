@@ -32,9 +32,7 @@ CDN 将文件分布在全球的各个服务器上，从而减少了访问文件�
 
 在具有一定规模的 Web 应用程序中，CDN 是一种流行的方式来分配流量为了使得访问更加迅速、可靠。在一个产品中使用 CDN 解决方案时，用户从第三方服务器下载资源而不是从源站。这提高了性能，也减少了公司建立和维护自己的全球网络的需要。当谈到 Web服务和在线体验的实际交付时，开发者可以依靠 CDN 来进行改善。
 
+Translate from
 
-
-Ref
-
-https://blog.stackpath.com/glossary/cdn/
+[https://blog.stackpath.com/glossary/cdn/](https://blog.stackpath.com/glossary/cdn/)
 
